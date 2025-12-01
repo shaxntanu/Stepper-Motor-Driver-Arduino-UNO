@@ -1,2 +1,2 @@
 # Stepper-Motor-Driver-Arduino-UNO-
-Arduino Code for NEMA Motor
+Arduino Code for NEMA Stepper Motor
