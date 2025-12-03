@@ -9,7 +9,7 @@
 // Motor:
 // A+ -> Black
 // A- -> Green
-// B+ -> Red
+// B+ -> Red 
 // B- -> Blue
 
 #define STEP_PIN 2
